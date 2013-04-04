@@ -1,4 +1,11 @@
 /*
+  File name: slides.min.jquery.js
+  Author's name: Paul Bialo
+  Web site name: Paul Bialo's Personal Portfolio
+  File description: See below for details
+*/
+
+/*
 * Slides, A Slideshow Plugin for jQuery
 * Intructions: http://slidesjs.com
 * By: Nathan Searles, http://nathansearles.com
