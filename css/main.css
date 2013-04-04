@@ -11,6 +11,10 @@ body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
 }
 
+h2 {
+    font-size: 20px;
+}
+
 
 /* ==========================================================================
 	Some pre-sets that came with HTML5 Boilerplate
@@ -80,7 +84,7 @@ textarea {
 }
 
 .main article h1 {
-    font-size: 2em;
+    font-size: 32px;
 }
 
 .main aside {
