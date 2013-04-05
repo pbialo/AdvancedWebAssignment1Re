@@ -86,12 +86,14 @@
 	Anchors
 */
 
-#slides a:link,a:visited {
+#slides a:link, 
+#slides a:visited{
 	color:#599100;
 	text-decoration:none;
 }
 
-#slides a:hover,a:active {
+#slides a:hover,
+#slides a:active {
 	color:#599100;
 	text-decoration:underline;
 }
